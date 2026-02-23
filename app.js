@@ -110,6 +110,9 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
+
+
+// For card Animation 
 document.addEventListener('DOMContentLoaded', () => {
     const cards = document.querySelectorAll('.pillar-card');
 
